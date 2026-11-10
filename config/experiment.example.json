@@ -1,0 +1,14 @@
+{
+  "experiment_id": "registration-baseline-001",
+  "date_utc": null,
+  "host_os": "Ubuntu 24.04 LTS",
+  "upstream_commit": "REPLACE_WITH_ACTUAL_GIT_SHA",
+  "deployment_profile": "REPLACE_WITH_UPSTREAM_COMPOSE_PROFILE",
+  "ue_count": 1,
+  "plmn": "REPLACE_WITH_LAB_PLMN",
+  "dnn": "REPLACE_WITH_LAB_DNN",
+  "measurement_namespace": "REPLACE_WITH_UE_CONTAINER_OR_NAMESPACE",
+  "measurement_interface": "REPLACE_WITH_UE_TUN_INTERFACE",
+  "test_destination": "REPLACE_WITH_REACHABLE_IP",
+  "notes": "No results are assumed. Capture all raw evidence."
+}
